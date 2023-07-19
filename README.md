@@ -74,7 +74,9 @@ Note: The provided code serves as a foundation for creating an appealing and use
 - Perfect for seamless shopping.
 
 
+## Deployment Status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/72e48b59-3a38-4c94-bc09-be23bd89ec33/deploy-status)](https://app.netlify.com/sites/kanasu-product-page/deploys)
 
 
 
